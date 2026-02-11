@@ -7,3 +7,5 @@ The app lets you record your daily meals and their calories, with separate secti
 MiSideDietDiary also calculates your total calories for the day and your weekly average calories consumed.
 
 MiSideDietDiary is completely free and open source. This project is not affiliated with the game MiSide, it is simply a small fan project made for fun.
+
+![Diet App Screenshot](https://i.ibb.co/20hx0fq6/2-DC6-CC89-79-B2-48-F7-8-A32-B3-BE22-F2031-E.png)
